@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1174",
+      "name": "用研",
+      "font_class": "yongyan",
+      "unicode": "f00f5",
+      "unicode_decimal": 983285
+    },
+    {
+      "icon_id": "1230",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "f012d",
+      "unicode_decimal": 983341
+    },
+    {
+      "icon_id": "8765147",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "13674041",
+      "name": "fabu",
+      "font_class": "fabu",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
