@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1135",
+      "name": "竖状图",
+      "font_class": "shuzhuangtu",
+      "unicode": "f00ce",
+      "unicode_decimal": 983246
+    },
+    {
       "icon_id": "1174",
       "name": "用研",
       "font_class": "yongyan",
@@ -18,6 +25,27 @@
       "font_class": "yonghu",
       "unicode": "f012d",
       "unicode_decimal": 983341
+    },
+    {
+      "icon_id": "1260",
+      "name": "好友",
+      "font_class": "haoyou",
+      "unicode": "f014b",
+      "unicode_decimal": 983371
+    },
+    {
+      "icon_id": "1727269",
+      "name": "06商品",
+      "font_class": "shangpin",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "6129155",
+      "name": "114订单、订单明细、收支明细",
+      "font_class": "dingdandingdanmingxishouzhimingxi",
+      "unicode": "e789",
+      "unicode_decimal": 59273
     },
     {
       "icon_id": "8765147",
